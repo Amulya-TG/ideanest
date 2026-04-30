@@ -41,7 +41,6 @@ Backend API for SocialNest – a social media application built using Django RES
 
 ## ⚙️ Setup
 
-```bash
 git clone https://github.com/Amulya-TG/socialnest.git
 cd backend
 
