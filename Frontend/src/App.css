@@ -52,7 +52,7 @@ input,textarea,select { font-family:inherit; }
 ::-webkit-scrollbar-track { background:var(--surface); }
 ::-webkit-scrollbar-thumb { background:var(--surface3); border-radius:4px; }
 
-/* NAVBAR*/
+/* NAVBAR */
 .navbar {
   position:sticky;
   top:0;
