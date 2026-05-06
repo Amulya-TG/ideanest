@@ -46,7 +46,7 @@ function Explore() {
   const [search, setSearch] = useState('');
   const [stageFilter, setStageFilter] = useState('');
   const [catFilter, setCatFilter] = useState('');
-  const [tagFilter,   setTagFilter] = useState('');
+  const [tagFilter, setTagFilter] = useState('');
   const [sort, setSort] = useState('latest');
   const [showModal, setShowModal] = useState(false);
   const { toast, show: showToast } = useToast();
