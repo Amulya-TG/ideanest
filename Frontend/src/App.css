@@ -24,7 +24,7 @@
   --shadow: 0 8px 32px rgba(0, 0, 0, 0.45);
 }
 
-/* ── RESET ── */
+/* RESET */
 * {
   margin: 0;
   padding: 0;
@@ -84,7 +84,7 @@ select {
   border-radius: 4px;
 }
 
-/* ── NAVBAR ── */
+/* NAVBAR */
 .navbar {
   position: sticky;
   top: 0;
@@ -169,7 +169,7 @@ select {
   border-color: rgba(248, 113, 113, 0.3);
 }
 
-/* ── AUTH PAGES ── */
+/* AUTH PAGES */
 .auth-page {
   min-height: 100vh;
   display: flex;
@@ -299,7 +299,7 @@ select {
   font-weight: 500;
 }
 
-/* ── HOME PAGE ── */
+/* HOME PAGE */
 .home-page {
   position: relative;
   z-index: 1;
@@ -607,7 +607,7 @@ select {
   margin-top: 20px;
 }
 
-/* ── IDEA CARD ── */
+/* IDEA CARD */
 .idea-card {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -766,7 +766,7 @@ select {
   border: 1px solid var(--border);
 }
 
-/* ── IDEA DETAIL PAGE ── */
+/* IDEA DETAIL PAGE */
 .detail-page {
   max-width: 760px;
   margin: 0 auto;
@@ -1094,7 +1094,7 @@ select {
   background: var(--accent2);
 }
 
-/* ── PROFILE PAGE ── */
+/* PROFILE PAGE */
 .profile-page {
   max-width: 820px;
   margin: 0 auto;
@@ -1274,7 +1274,7 @@ select {
   border-color: var(--accent);
 }
 
-/* ── MODALS ── */
+/* MODALS */
 .modal-overlay {
   position: fixed;
   inset: 0;
@@ -1443,7 +1443,7 @@ select {
   line-height: 1.5;
 }
 
-/* ── UTILITIES ── */
+/* UTILITIES */
 .loading-state {
   display: flex;
   align-items: center;
@@ -1516,7 +1516,7 @@ select {
   border-color: rgba(248, 113, 113, 0.3);
 }
 
-/* ── ANIMATIONS ── */
+/* ANIMATIONS */
 @keyframes fadeUp {
   from {
     opacity: 0;
@@ -1554,7 +1554,7 @@ select {
   }
 }
 
-/* ── RESPONSIVE ── */
+/* RESPONSIVE */
 @media (max-width: 768px) {
   .navbar {
     padding: 0 16px;
