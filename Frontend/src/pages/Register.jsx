@@ -4,8 +4,8 @@ import API from '../api/axios';
 function Register() {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
-  const [loading,  setLoading]  = useState(false);
-  const [error,    setError]    = useState('');
+  const [loading, setLoading]  = useState(false);
+  const [error, setError]    = useState('');
 
   useEffect(() => { document.title = 'Register | IdeaNest'; }, []);
 
